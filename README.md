@@ -25,25 +25,25 @@
 
 **第一步, 把项目里 upload 文件夹复制到你项目根目录**
 
-![image.png](/img/bVbAfjP)
+![avatar](https://segmentfault.com/img/bVbAfjP?w=505&h=219)
 
 **第二步, 下载该js相关依赖**
 npm 或 cnpm i chalk ora shelljs node-ssh inquirer compressing -D
 
 **第三步, 打开 upload/config.js 配置文件, 配置ssh地址, 用户名, 验证方式,需要上传的目录**
 
-![image.png](/img/bVbAfkZ)
+![avatar](https://segmentfault.com/img/bVbAfkZ?w=858&h=376)
 
 **第四步, 在你项目中 package.json 文件中 加上 "deploy": "node ./upload/upload.js"**
 
-![image.png](/img/bVbAflU)
+![avatar](https://segmentfault.com/img/bVbAflU?w=721&h=267)
 
 **最后 在命令行输入 npm run deploy 选择发布环境 然后就ojbk了**
 
-![image.png](/img/bVbAfmw)
-![image.png](/img/bVbAfmQ)
-![image.png](/img/bVbAfmY)
-![image.png](/img/bVbAfm1)
+![avatar](https://segmentfault.com/img/bVbAfmw?w=566&h=115)
+![avatar](https://segmentfault.com/img/bVbAfmQ?w=544&h=150)
+![avatar](https://segmentfault.com/img/bVbAfmY?w=789&h=177)
+![avatar](https://segmentfault.com/img/bVbAfm1?w=557&h=357)
 
 大功告成--
 * * *
@@ -111,7 +111,7 @@ const zipDist = async ()=>{
 ```
 > **再然后 通过ssh连接服务器 有两种方式: 一是通过秘钥连接(推荐), 二是密码连接**
 > **秘钥连接需要把本机公钥放服务器指定目录 (在upload/config.js 有说明)**
-![image.png](/img/bVbAfI1)
+![avatar](https://segmentfault.com/img/bVbAfI1?w=871&h=102)
 ```
 //连接服务器
 const connectSSH = async ()=>{
