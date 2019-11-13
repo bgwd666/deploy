@@ -7,14 +7,17 @@
 打包 npm run build
 自动部署 npm run deploy (需要配置 upload目录下的 config.js 配置项)
 
-教程在下面, 或者点下面链接
+教程在下面, 或者点文章链接
 [文章地址](https://github.com/bgwd666/deploy)
 
 **简单实用的前端部署, 一条命令搞定, 省去繁琐的步骤!**
 
 主要是 nodejs shelljs(命令行命令) node-ssh(连接服务器)
+
 [项目git 地址](https://github.com/bgwd666/deploy)
+
 (这个git项目是我自己搭的一个比较low的vue脚手架,集成ts)
+
 (主要看 自动部署 在 upload 目录 )
 
 #### 如何在你项目中使用( 五步曲 )
