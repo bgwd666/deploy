@@ -35,7 +35,7 @@ npm 或 cnpm i chalk ora shelljs node-ssh inquirer compressing -D
 ![avatar](https://segmentfault.com/img/bVbAfkZ?w=858&h=376)
 
 **第四步, 在你项目中 package.json 文件中 加上 "deploy": "node ./upload/upload.js"**
-
+.
 ![avatar](https://segmentfault.com/img/bVbAflU?w=721&h=267)
 
 **最后 在命令行输入 npm run deploy 选择发布环境 然后就ojbk了**
