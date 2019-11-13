@@ -4,11 +4,11 @@
 
 本demo执行: npm 或 cnpm i 安装依赖
 
-运行 npm run serve
+**运行 npm run serve**
 
-打包 npm run build
+**打包 npm run build**
 
-自动部署 npm run deploy (需要配置 upload目录下的 config.js 配置项)
+**自动部署  npm run deploy  (需要配置 upload目录下的 config.js 配置项)**
 
 教程在下面, 或者点文章链接
 [文章地址](https://github.com/bgwd666/deploy)
