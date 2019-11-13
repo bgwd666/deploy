@@ -3,8 +3,11 @@
 (如果您觉得对您有一点点帮助 点个star 那就非常感谢了)
 
 本demo执行: npm 或 cnpm i 安装依赖
+
 运行 npm run serve
+
 打包 npm run build
+
 自动部署 npm run deploy (需要配置 upload目录下的 config.js 配置项)
 
 教程在下面, 或者点文章链接
@@ -35,8 +38,9 @@ npm 或 cnpm i chalk ora shelljs node-ssh inquirer compressing -D
 ![avatar](https://segmentfault.com/img/bVbAfkZ?w=858&h=376)
 
 **第四步, 在你项目中 package.json 文件中 加上 "deploy": "node ./upload/upload.js"**
-.
+
 ![avatar](https://segmentfault.com/img/bVbAflU?w=721&h=267)
+
 
 **最后 在命令行输入 npm run deploy 选择发布环境 然后就ojbk了**
 
