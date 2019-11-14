@@ -2,6 +2,10 @@
 * * *
 (如果您觉得对您有一点点帮助 点个star 那就非常感谢了)
 
+(这个git项目是我自己搭的一个比较low的vue脚手架,集成ts)
+
+(主要看 自动部署 在 upload 目录 )
+
 本demo执行: npm 或 cnpm i 安装依赖
 
 **运行 npm run serve**
@@ -19,9 +23,6 @@
 
 [项目git 地址](https://github.com/bgwd666/deploy)
 
-(这个git项目是我自己搭的一个比较low的vue脚手架,集成ts)
-
-(主要看 自动部署 在 upload 目录 )
 
 #### 如何在你项目中使用( 五步曲 )
 
