@@ -15,7 +15,10 @@
 **自动部署  npm run deploy  (需要配置 upload目录下的 config.js 配置项)**
 
 教程在下面, 或者点文章链接
-[文章地址](https://segmentfault.com/a/1190000020994461?share_user=1030000018633764)
+
+[文章地址-思否](https://segmentfault.com/a/1190000020994461?share_user=1030000018633764)
+
+[文章地址-掘金](https://juejin.im/post/5dce6b2b5188254eee54d77a)
 
 **简单实用的前端部署, 一条命令搞定, 省去繁琐的步骤!**
 
