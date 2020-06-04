@@ -1,5 +1,9 @@
 ### 永恒的前言
 * * *
+### 已发布npm包 bgwd-deploy 在我github项目中
+移步[bgwd-deploy](https://github.com/bgwd666/bgwd-deploy)
+
+
 (如果您觉得对您有一点点帮助 点个star 那就非常感谢了)
 
 (这个git项目是我自己搭的一个比较low的vue脚手架,集成ts)
